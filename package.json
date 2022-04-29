@@ -4,7 +4,7 @@
 	"description": "Mokev's Project",
 	"keywords": ["Useful","Coding","Backend","freecodecamp"],
 	"license": "Mokev's",
-	"version": "1.0",
+	"version": "2.10.2",
 	"dependencies": {
 		"express": "^4.14.0",
 		"moment": "2.14.0"
